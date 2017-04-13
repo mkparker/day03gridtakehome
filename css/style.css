@@ -1,0 +1,60 @@
+.container-fluid {
+  background-color: yellow;
+  height: auto;
+}
+
+#header {
+  background-color: blue;
+  height: 150px;
+  border: 1.5px solid black;
+}
+
+#nav {
+  background-color: green;
+  height: 50px;
+  border: 1.5px solid black;
+}
+
+#content {
+  background-color: red;
+  height: 300px;
+  border: 1.5px solid black;
+}
+
+#aside {
+  background-color: purple;
+  height: 300px;
+  border: 1.5px solid black;
+}
+
+#promo1 {
+  background-color: orange;
+  height: 200px;
+  border: 1.5px solid black;
+}
+
+#promo2 {
+  background-color: orange;
+  height: 200px;
+  border: 1.5px solid black;
+}
+
+#promo3 {
+  background-color: orange;
+  height: 200px;
+  border: 1.5px solid black;
+}
+
+#promo4 {
+  background-color: orange;
+  height: 200px;
+  border: 1.5px solid black;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  height: 50px;
+  border: 1.5px solid black;
+  margin-bottom: 10px;
+}
