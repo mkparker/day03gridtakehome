@@ -11,7 +11,7 @@
 
 #nav {
   background-color: green;
-  height: 50px;
+  height: 60px;
   border: 1.5px solid black;
 }
 
@@ -56,5 +56,4 @@
   color: white;
   height: 50px;
   border: 1.5px solid black;
-  margin-bottom: 10px;
 }
